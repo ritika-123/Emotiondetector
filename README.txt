@@ -1,14 +1,3 @@
-MNNIT Allahabad
-B.Tech. (IT) 2019 Batch
-Group 11
-
-UTKARSH MANI TRIPATHI (20158027)
-VRINDA AGARWAL (20158103)
-ANKIT GARG (20153069)
-VIVEK KUMAR JHA (20158073)
-KSUHAGRA SHUKLA (20158075)
-
-
 This project, titled "Human Emotion Detection (H.E.D.) through Recognition of Facial Expressions", has been developed in python 3.6 (64-bit).
 
 Upon installation of Python 3.x on your 64-bit machine, install pip (in Command Prompt).
